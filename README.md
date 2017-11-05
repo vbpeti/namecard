@@ -1,2 +1,2 @@
-# namecard
-This is my own namecard
+This is my own namecard.
+Language: hungarian.
